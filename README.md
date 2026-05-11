@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="320" height="400" alt="featherless" src="https://github.com/user-attachments/assets/4cff0f18-e1fd-40d5-9b2a-f9afa45ced89" />
+  <img width="817" height="420" alt="featherless" src="https://github.com/user-attachments/assets/79daba6e-ce84-46ea-9779-6312be4ad51d" />
 </p>
 
 # Featherless
